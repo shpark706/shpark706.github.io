@@ -1,3 +1,7 @@
 main:
-  - tile: "My knowlege repository"
-  
+  - title: "Archive"
+    url: /year-archive/
+  - title: "tag"
+    url: /tags/
+  - title: "Category"
+    url: /categories/
